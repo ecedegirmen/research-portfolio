@@ -1,6 +1,6 @@
 # Ece Degirmen | Research Portfolio
 
-I'm an Economics undergraduate at UNC Chapel Hill, graduating in May 2027. I'm interested in how economic policy shapes access to education and opportunity, and how data can help people make better decisions.
+I'm a senior at UNC Chapel Hill studying Economics (BS) and Data Science (BA), with a minor in Statistics & Analytics. I'm interested in how economic policy shapes access to education and opportunity, and how data can help people make better decisions.
 
 This portfolio brings together my developing policy research, computational economics coursework, and collaborative data analysis. Each project page explains the question, current stage, my contribution, and the next steps. Code, figures, and written outputs will be linked as they are added.
 
@@ -15,7 +15,7 @@ This portfolio brings together my developing policy research, computational econ
 
 ## How I approach the work
 
-I want readers to be able to follow how a question becomes an analysis: where the data came from, what changed during cleaning, which assumptions matter, and what the results can actually support. The [research workflow](docs/research-workflow.md) sets out how I plan to document and reproduce the work as this repository develops.
+I want readers to be able to follow how a question becomes an analysis: where the data came from, what changed during cleaning, which assumptions matter, and what the results can truly support. The [research workflow](docs/research-workflow.md) sets out how I plan to document and reproduce the work as this repository develops.
 
 **Available now:** project overviews and development plans. Analysis files and findings are not yet published in this repository.
 
