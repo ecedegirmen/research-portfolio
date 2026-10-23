@@ -2,9 +2,13 @@
 
 [Back to portfolio](../../README.md)
 
-**Context:** Carolina Impact Fellowship  
+**Context:** [Carolina Impact Fellowship](https://carolinaacross100.unc.edu/student-engagement/carolina-impact-fellowship/), Carolina Across 100  
 **Status:** Project development; geographic scope and source selection  
 **My role:** Developing the project question, data plan, and proposed outputs.
+
+## Fellowship context and intended contribution
+
+The Carolina Impact Fellowship supports students in creating research, tools, and other resources for communities across North Carolina. Through my project, I aim to make transportation barriers to education and training easier to identify and explain. The planned dashboard and report are intended to help community colleges, workforce organizations, and transportation partners consider where access could be improved.
 
 ## What I'm investigating
 
