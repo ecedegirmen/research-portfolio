@@ -11,12 +11,12 @@ This portfolio brings together my developing applied economics and policy resear
 | [North Carolina Opportunity Scholarship expansion](projects/opportunity-scholarship/README.md) | Investigating who benefits from expanded school-voucher eligibility and what changes in participation and enrollment may mean for educational access and public spending | Research development and data assessment |
 | [Transportation access to education and training](projects/transportation-access/README.md) — [Carolina Impact Fellowship](https://carolinaacross100.unc.edu/student-engagement/carolina-impact-fellowship/) | Assessing whether transit routes and class schedules allow young adults to reach training and return home, to identify barriers that proximity alone can miss | Scope and data planning |
 | [Austin Animal Center intake and outcomes](projects/austin-animal-center/README.md) | Exploring patterns in shelter intake and outcomes using R, with attention to how record structure and data quality affect conclusions that could inform shelter operations | Coursework in progress |
-| [Dynamic firm-investment model](projects/firm-investment/README.md) | Modeling firm investment decisions and exploring AI–labor substitution using numerical methods in Python, to understand how model assumptions shape firms’ choices | Coursework completed; portfolio materials pending |
+| [Dynamic firm-investment model](projects/firm-investment/README.md) | Modeling firm investment decisions and exploring AI–labor substitution using numerical methods in Python, to understand how model assumptions shape firms’ choices | Coursework completed; documentation and slides available |
 
 ## How I approach the work
 
 I want readers to be able to follow how a question becomes an analysis: where the data came from, what changed during cleaning, which assumptions matter, and what the results can truly support. The [research workflow](docs/research-workflow.md) sets out how I plan to document and reproduce the work as this repository develops.
 
-**Available now:** project overviews and development plans. Analysis files and findings are not yet published in this repository.
+**Available now:** project overviews and development plans, plus the computational economics project's detailed documentation and presentation slides. Its revised notebook will be added separately.
 
 [LinkedIn](https://www.linkedin.com/in/ece-degirmen) · [Email](mailto:eced@unc.edu)
