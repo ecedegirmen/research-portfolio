@@ -2,7 +2,7 @@
 
 [Back to portfolio](../../README.md) · [View presentation slides](ECON590_Slides.pdf)
 
-**My contribution:** I contributed across the group project and independently authored the original README. The original model, code, analysis, and presentation are collaborative work. I independently implemented the October 2026 code revisions.
+**My contribution:** I contributed across the group project and independently authored the original README. The original model, code, analysis, and presentation are collaborative work. The code revisions were implemented by me on October 2026.
 
 **Course:** Econ 590, Computational Methods for Economists, UNC Chapel Hill  
 **Instructor:** Marlon Azinovic-Yang  
@@ -172,8 +172,8 @@ Generative AI (ChatGPT) was used to assist in reviewing the structure of the cod
 
 ---
 
-### Revisions — October 2026
-I (Ece Degirmen) independently implemented the October 2026 code revisions: correcting the nonnegative-investment bound and constraining simulated choices to the feasible range while retaining cubic interpolation. All nine tested paths have nonnegative investment and positive consumption. Documentation and figures reflect these changes; feasibility checks do not establish full numerical accuracy or global stability. ChatGPT assisted with these later revisions.
+### Revisions by Ece Degirmen — October 2026
+Corrected the nonnegative-investment bound and constrained simulated choices to the feasible range while retaining cubic interpolation. All nine tested paths have nonnegative investment and positive consumption. Documentation and figures reflect these changes; feasibility checks do not establish full numerical accuracy or global stability.
 
 ## 8. What's included in the project
 
