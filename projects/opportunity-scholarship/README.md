@@ -53,6 +53,6 @@ A source register and variable dictionary will be added after the exact files an
 
 ## Intended outputs
 
-A research paper, documented analysis code, source and variable documentation, and figures with clear interpretation. I am developing this as an independent undergraduate research project beyond the course, with the goal of submitting it for consideration at the ECON Undergraduate Research Symposium. Selection and presentation are not yet confirmed.
+A research paper, documented analysis code, source and variable documentation, and figures with clear interpretation. I am developing this as an independent undergraduate research project, with the goal of publishing and submitting it for consideration at the ECON Undergraduate Research Symposium. Selection and presentation are not yet confirmed.
 
 **Published findings:** None yet. The next milestone is a verified data inventory and a feasible, precisely defined research question.
