@@ -1,16 +1,24 @@
-# North Carolina Opportunity Scholarship expansion
+# North Carolina Opportunity Scholarship Program: 2024–2025 Eligibility Expansion
 
 [Back to portfolio](../../README.md)
 
-**Context:** ECON 440, Analysis of Public Finance, UNC Chapel Hill  
-**Status:** Research in development; data assessment and empirical design  
-**Collaboration:** Two-person course project. I initiated the topic and wrote the first policy-selection draft.
+**Researcher:** Ece Degirmen, UNC Chapel Hill  
+**Context:** Independent undergraduate research, developed from a policy question first explored in ECON 440, Analysis of Public Finance  
+**Status:** Initial policy-selection milestone completed; data assessment and empirical design planned
 
 ## What I'm investigating
 
 I'm studying North Carolina's 2024–25 Opportunity Scholarship expansion, with a focus on educational access, school enrollment, and implications for public spending. I want to understand who the expansion reaches and what the available evidence can tell us about changes in enrollment and funding.
 
 A central distinction is between describing changes after a policy and establishing that the policy caused them. The research design is still being developed.
+
+## Initial progress
+
+I selected the policy, prepared and submitted the initial policy-selection write-up, and established the policy's legislative basis, implementation timing, affected population, and economic motivation. The initial work identifies how broader eligibility could change the effective price of private schooling, household school choice, and enrollment patterns.
+
+[Read the initial policy-selection research note](research-notes/01-policy-selection.md).
+
+This milestone establishes the policy background and motivation. Data collection, empirical estimation, and findings remain future work.
 
 ## Data under assessment
 
@@ -45,6 +53,6 @@ A source register and variable dictionary will be added after the exact files an
 
 ## Intended outputs
 
-A research paper, documented analysis code, source and variable documentation, and figures with clear interpretation. I hope to develop the work further through independent undergraduate research and a symposium presentation.
+A research paper, documented analysis code, source and variable documentation, and figures with clear interpretation. I am developing this as an independent undergraduate research project beyond the course, with the goal of submitting it for consideration at the ECON Undergraduate Research Symposium. Selection and presentation are not yet confirmed.
 
 **Published findings:** None yet. The next milestone is a verified data inventory and a feasible, precisely defined research question.
