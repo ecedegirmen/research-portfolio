@@ -3,7 +3,7 @@
 [Back to portfolio](../../README.md)
 
 **Researcher:** Ece Degirmen, UNC Chapel Hill  
-**Context:** Independent undergraduate research
+**Context:** Independent undergraduate research  
 **Status:** Initial policy-selection milestone completed; data assessment and empirical design planned
 
 ## What I'm investigating
