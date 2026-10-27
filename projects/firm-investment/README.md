@@ -141,6 +141,8 @@ Simulates T periods:
 
 ## 5. How to Run the Code
 
+The revised notebook is pending upload. The steps below apply once `590project_K-Investment_revised(1).ipynb` is available.
+
 1. Open `590project_K-Investment_revised(1).ipynb`
 2. Ensure required packages are installed:
    ```
@@ -177,9 +179,11 @@ Corrected the nonnegative-investment bound and constrained simulated choices to 
 
 ## 8. What's included in the project
 
-✔ `590project_K-Investment_revised(1).ipynb` – Python implementation  
-✔ `README.md` – Documentation  
-✔ Presentation slides (separate file)  
+| Material | Availability |
+| --- | --- |
+| [README.md](README.md) | Model, methods, interpretation, and contribution documentation |
+| [Presentation slides](ECON590_Slides.pdf) | Available PDF |
+| `590project_K-Investment_revised(1).ipynb` | Revised Python notebook; pending upload |  
 
 ---
 
