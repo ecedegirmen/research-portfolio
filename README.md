@@ -8,7 +8,7 @@ This portfolio brings together my developing applied economics and policy resear
 
 | Project | Focus | Current stage |
 | --- | --- | --- |
-| [North Carolina Opportunity Scholarship expansion](projects/opportunity-scholarship/README.md) | Investigating who benefits from expanded school-voucher eligibility and what changes in participation and enrollment may mean for educational access and public spending | Research development and data assessment |
+| [North Carolina Opportunity Scholarship expansion](projects/opportunity-scholarship/README.md) | Investigating who benefits from expanded school-voucher eligibility and what changes in participation and enrollment may mean for educational access and public spending | Initial policy-selection milestone completed; data assessment planned |
 | [Transportation access to education and training](projects/transportation-access/README.md) — [Carolina Impact Fellowship](https://carolinaacross100.unc.edu/student-engagement/carolina-impact-fellowship/) | Assessing whether transit routes and class schedules allow young adults to reach training and return home, to identify barriers that proximity alone can miss | Scope and data planning |
 | [Austin Animal Center intake and outcomes](projects/austin-animal-center/README.md) | Exploring patterns in shelter intake and outcomes using R, with attention to how record structure and data quality affect conclusions that could inform shelter operations | Coursework in progress |
 | [Dynamic firm-investment model](projects/firm-investment/README.md) | Modeling firm investment decisions and exploring AI–labor substitution using numerical methods in Python, to understand how model assumptions shape firms’ choices | Coursework completed; documentation and slides available |
