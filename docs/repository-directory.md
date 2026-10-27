@@ -2,7 +2,7 @@
 
 [Back to research portfolio](../README.md) · [GitHub profile](https://github.com/ecedegirmen)
 
-This directory connects my research projects and earlier technical coursework. Research materials live in one portfolio repository, with a page for each project. Course exercises remain in their original repositories so their files and commit histories stay intact.
+This directory connects my research projects and earlier technical coursework. Research materials live in one portfolio repository, with a page for each project. Course exercises are consolidated in [coursework](https://github.com/ecedegirmen/coursework), organized by course. Original repositories remain available with their commit histories intact.
 
 ## Research and analysis
 
@@ -18,6 +18,10 @@ This directory connects my research projects and earlier technical coursework. R
 Each project page states its current stage. Planned materials are distinguished from files already published.
 
 ## Coursework and technical practice
+
+**[coursework](https://github.com/ecedegirmen/coursework)** is the main collection: [COMP 110](https://github.com/ecedegirmen/coursework/tree/main/COMP110), [COMP 210](https://github.com/ecedegirmen/coursework/tree/main/COMP210), and [COMP 290](https://github.com/ecedegirmen/coursework/tree/main/COMP290). Assignments, lecture exercises, TypeScript practice, and final-project materials are grouped within their courses.
+
+The original source repositories are listed below for provenance and commit history.
 
 | Repository | Purpose | Where to start |
 | --- | --- | --- |
